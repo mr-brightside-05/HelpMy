@@ -1,0 +1,58 @@
+h3{
+    background-color: snow;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    background-color: steelblue;
+}
+
+.homework{
+    width: 1000px;
+    border: 2px #000000 solid;
+    background-color: skyblue;
+    padding: 10px 20px;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+    border: 2px #000000 solid;
+    align-items: center;
+    
+}
+.form p{
+    background-color: snow;
+    width: 300px;
+}
+.textblok{
+    width: 300px;
+}
+.btnbloc{
+    display: flex;
+    flex-direction: column;
+}
+.btnred{
+    height: 50px;
+    width: 100px;
+    background-color: red;
+}
+.buttonholder{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+ 
+}
+.buttonholder img{
+    width: 600px;
+}
+.out{
+    background-color: snow;
+    width: 300px;
+}
+#table01{
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000;
+    background-color: snow;
+    overflow: hidden;
+}
